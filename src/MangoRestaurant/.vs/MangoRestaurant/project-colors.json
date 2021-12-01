@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26a5bd7b-d4c7-47f7-aaf0-c73cbe935ce4": {
+      "ProjectGuid": "26a5bd7b-d4c7-47f7-aaf0-c73cbe935ce4",
+      "DisplayName": "Mango.Web",
+      "ColorIndex": 0
+    },
+    "5ad5b771-8225-47a4-98ca-820aa39d30ad": {
+      "ProjectGuid": "5ad5b771-8225-47a4-98ca-820aa39d30ad",
+      "DisplayName": "Mango.Services.ProductAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -10,7 +10,12 @@
       "ProjectGuid": "5ad5b771-8225-47a4-98ca-820aa39d30ad",
       "DisplayName": "Mango.Services.ProductAPI",
       "ColorIndex": 1
+    },
+    "f947df71-1b15-46d9-b1ce-672542539d51": {
+      "ProjectGuid": "f947df71-1b15-46d9-b1ce-672542539d51",
+      "DisplayName": "Mango.Services.Identity",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

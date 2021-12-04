@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {}
+    "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {}
   },
   "projects": {
-    "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {
+    "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+        "projectUniqueName": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
         "projectName": "Mango.Web",
-        "projectPath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
+        "projectPath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Web\\Mango.Web.csproj",
         "packagesPath": "C:\\Users\\Kamdem\\.nuget\\packages\\",
-        "outputPath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Web\\obj\\",
+        "outputPath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

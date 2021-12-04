@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9isCUwDCXhqPUFDEmXzvPu9txYCyRdfcH1Tv+oPtj2o1FkJvIJ49yra7Mg+gPexBIwufcErwN9Y8X7mXTT0EHQ==",
+  "dgSpecHash": "nqdZmBSaAGhPjT5qCtRqGjCBAKz3NbeaMLq85JPlxyC+5gKL5zl3COvkKLJ1xhkidhvMq6dF0Uy9FGPoL3x80Q==",
   "success": true,
-  "projectFilePath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\src\\MangoRestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
+  "projectFilePath": "D:\\KOKAAR\\IT\\Projects\\Learning\\Udemy\\.NET Core Microservices\\akk\\Src\\MangoRestaurant\\Mango.Services.ProductAPI\\Mango.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kamdem\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Kamdem\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

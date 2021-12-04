@@ -26,3 +26,11 @@ D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\src\MangoRestau
 D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\src\MangoRestaurant\Mango.Web\obj\Debug\net6.0\Mango.Web.genruntimeconfig.cache
 D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
 D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\src\MangoRestaurant\Mango.Web\obj\Debug\net6.0\Mango.Web.csproj.CopyComplete
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KOKAAR\IT\Projects\Learning\Udemy\.NET Core Microservices\akk\Src\MangoRestaurant\Mango.Web\bin\Debug\net6.0\System.Security.Permissions.dll

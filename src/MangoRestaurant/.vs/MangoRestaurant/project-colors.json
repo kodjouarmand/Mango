@@ -15,7 +15,17 @@
       "ProjectGuid": "f947df71-1b15-46d9-b1ce-672542539d51",
       "DisplayName": "Mango.Services.Identity",
       "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "255eebb9-ee0b-44e7-bf11-f6c45b997891": {
+      "ProjectGuid": "255eebb9-ee0b-44e7-bf11-f6c45b997891",
+      "DisplayName": "Mango.Services.Identity",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
